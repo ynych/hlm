@@ -1,0 +1,34 @@
+# 癸酉续红项目 .gitignore
+
+# 草稿文件
+draft/*
+*.draft
+*.tmp
+
+# 编辑备份
+*.bak
+*.backup
+*~
+.DS_Store
+
+# 个人笔记（可本地保留，不提交）
+notes/
+personal/
+
+# 输出文件（如有编译/导出）
+output/
+dist/
+build/
+
+# 临时下载资料
+downloads/
+temp/
+
+# 编辑器
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# 系统文件
+Thumbs.db
