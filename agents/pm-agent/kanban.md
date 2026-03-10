@@ -21,26 +21,32 @@
 
 ### 第81回进度
 
-| 环节 | Agent | 交付物 | 状态 | 时间 |
-|------|-------|--------|------|------|
-| 大纲 | ARC-Agent | outline-081-v1.md | ✅ 已完成 | 09:52 |
-| 动机审核 | CHR-Agent | motivation-review-081.md | 🔄 进行中 | - |
-| 执笔 | WRT-Agent | draft-081-v1.md | ⏳ 等待 | - |
+| 环节 | Agent | 交付物 | 状态 | GitHub链接 |
+|------|-------|--------|------|-----------|
+| 大纲 | ARC-Agent | outline-081-v1.md | ✅ 已完成 | [查看](https://github.com/ynych/hlm/blob/main/deliverables/phase2/outline-081-v1.md) |
+| 动机审核 | CHR-Agent | motivation-review-081.md | ✅ 已完成 | [查看](https://github.com/ynych/hlm/blob/main/deliverables/phase2/motivation-review-081.md) |
+| **执笔** | **WRT-Agent** | **draft-081-v1.md** | **🔄 进行中** | - |
 | 文风审核 | STY-Agent | sty-review-081.md | ⏳ 等待 | - |
 | 统稿 | EDT-Agent | final-081-v1.md | ⏳ 等待 | - |
 | 书评 | REV-* | review-081-*.md | ⏳ 等待 | - |
+
+### 第81回修改记录
+
+根据CHR-Agent审核意见修改：
+- ✅ 探春台词：改为"花开花落"隐喻，符合"玫瑰花"性格
+- ✅ 贾政台词：增加"叫我这老脸往哪里搁"，强调颜面动机
 
 ### 第81回内容预览
 
 **回目**: 占旺相四美钓游鱼 奉严词两番入家塾
 
-**场景**:
-1. 藕香榭四美钓鱼（闲适）
-2. 荣禧堂贾政训子（紧张）
-3. 潇湘馆黛玉惊梦（惊恐）
-4. 怡红院夜话（悲凉）
-
-**字数预估**: 8000-10000字
+| 场景 | 内容 | 预估字数 |
+|------|------|---------|
+| 场景1 | 藕香榭四美钓鱼 | ~2000字 |
+| 场景2 | 荣禧堂贾政训子 | ~2500字 |
+| 场景3 | 潇湘馆黛玉惊梦（高潮） | ~3000字 |
+| 场景4 | 怡红院夜话 | ~1500字 |
+| **总计** | | **~10000字** |
 
 ---
 
@@ -48,7 +54,7 @@
 
 | 批次 | 回目 | 状态 | 优先级 |
 |------|------|------|--------|
-| 1 | 81-85 | 🔄 第81回进行中 | P0 (黛玉之死) |
+| 1 | 81-85 | 🔄 第81回写作中 | P0 (黛玉之死) |
 | 2 | 86-90 | ⏳ 等待 | P1 |
 | 3 | 91-100 | ⏳ 等待 | P0 (抄家) |
 | 4 | 101-110 | ⏳ 等待 | P1 |
@@ -59,10 +65,9 @@
 ## GitHub
 
 **仓库**: https://github.com/ynych/hlm  
-**最新**: 1ee2d3a "Add Phase 2推进计划"
+**最新提交**: dda5bfc "第81回大纲v1.1: 根据CHR-Agent审核意见修改"
 
-**查看第81回大纲**: 
-https://github.com/ynych/hlm/blob/main/deliverables/phase2/outline-081-v1.md
+**第81回大纲**: https://github.com/ynych/hlm/blob/main/deliverables/phase2/outline-081-v1.md
 
 ---
 
@@ -74,4 +79,4 @@ https://github.com/ynych/hlm/blob/main/deliverables/phase2/outline-081-v1.md
 
 ---
 
-*最后更新: 2026-03-10 10:21*
+*最后更新: 2026-03-10 10:26*
