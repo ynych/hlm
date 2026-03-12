@@ -4,49 +4,89 @@
 
 - **项目名称**: 癸酉续红
 - **启动时间**: 2026-03-10
-- **当前阶段**: Phase 2 🚀 进行中 - 第81回统稿
+- **当前阶段**: Phase 2 🚀 进行中 - 第82回大纲
 
 ---
 
 ## Phase 2 🚀 进行中
 
-### 第81回进度
+### 第81回进度 ✅ 定稿完成
 
-| 环节 | Agent | 交付物 | 状态 | GitHub链接 |
-|------|-------|--------|------|-----------|
-| 大纲 | ARC-Agent | outline-081-v1.md | ✅ | [查看](https://github.com/ynych/hlm/blob/main/deliverables/phase2/outline-081-v1.md) |
-| 动机审核 | CHR-Agent | motivation-review-081.md | ✅ | [查看](https://github.com/ynych/hlm/blob/main/deliverables/phase2/motivation-review-081.md) |
-| 执笔 | WRT-Agent | draft-081-v1.md | ✅ | [查看](https://github.com/ynych/hlm/blob/main/deliverables/phase2/draft-081-v1.md) |
-| 文风审核 | STY-Agent | sty-review-081.md | ✅ | [查看](https://github.com/ynych/hlm/blob/main/deliverables/phase2/sty-review-081.md) |
-| 修改 | WRT-Agent | revision-081-v1.md | ✅ | [查看](https://github.com/ynych/hlm/blob/main/deliverables/phase2/revision-081-v1.md) |
-| **统稿** | **EDT-Agent** | **final-081-v1.md** | **🔄 进行中** | - |
-| 书评 | REV-* | review-081-*.md | ⏳ 等待 | - |
+| 环节 | Agent | 交付物 | 状态 | 评分 |
+|------|-------|--------|------|------|
+| 大纲 | ARC-Agent | outline-081-v1.md | ✅ | - |
+| 动机审核 | CHR-Agent | motivation-review-081.md | ✅ | - |
+| 执笔 | WRT-Agent | draft-081-v1.md | ✅ | - |
+| 文风审核 | STY-Agent | sty-review-081.md | ✅ | - |
+| 修改v1 | WRT-Agent | revision-081-v1.md | ✅ | - |
+| 统稿v1 | EDT-Agent | final-081-v1.md | ✅ | - |
+| 书评 | REV-Critic | review-081-critic.md | ✅ | 7.4/10 |
+| 评审-考据 | REV-Scholar | review-081-scholar.md | ✅ | 8.2/10 |
+| 评审-现代 | REV-Modern | review-081-modern.md | ✅ | 8.2/10 |
+| 修改v2 | WRT-Agent | revision-081-v2.md | ✅ | - |
+| 修改v3 | WRT-Agent | revision-081-v3.md | ✅ | - |
+| 统稿v2 | EDT-Agent | final-081-v2.md | ✅ | - |
+| 终审 | PM-Agent | final-review-081.md | ✅ | **通过** |
+| **定稿** | - | **final-081.md** | **✅** | **8.5-9.0/10** |
 
-### 第81回统计
+### 第81回亮点
 
-- **修改稿**: 9180字
-- **修改**: 19处（按STY-Agent审核意见）
-- **提交**: eb866ee
+- 🎋 竹意象贯穿全回（钓鱼→潇湘馆→噩梦→次日）
+- 🔮 探春预言隐晦有力（花谢、燕子、鱼儿）
+- 💔 黛玉噩梦虐感封神（婚礼+鲜血+竹影鬼魅）
+- ✨ 宝钗笔墨处理高明（莺儿送来，避免说教）
 
 ---
 
-## 40回总体进度
+### 第82回进度 🆕 新建
 
-| 批次 | 回目 | 状态 | 优先级 |
-|------|------|------|--------|
-| 1 | **81-85** | 🔄 第81回统稿中 | P0 |
-| 2 | 86-90 | ⏳ 等待 | P1 |
-| 3 | 91-100 | ⏳ 等待 | P0 |
-| 4 | 101-110 | ⏳ 等待 | P1 |
-| 5 | 111-120 | ⏳ 等待 | P0 |
+| 环节 | Agent | 交付物 | 状态 |
+|------|-------|--------|------|
+| 大纲 | ARC-Agent | outline-082-v1.md | ✅ | 待CHR-Agent审核 |
+| 动机审核 | CHR-Agent | motivation-review-082.md | ⏳ |
+| 执笔 | WRT-Agent | draft-082-v1.md | ⏳ |
+| ... | ... | ... | ... |
+
+### 第82回核心事件
+
+**回目**: 待拟定（建议：惊噩梦黛玉染沉疴 闻风声宝钗探病榻）
+
+**核心剧情**:
+1. **黛玉噩梦后续** - 噩梦后病情加重，咳血不止
+2. **提亲风波初起** - 贾府内部开始讨论宝玉婚事（金玉良缘浮出水面）
+3. **宝钗探病** - 宝钗以探病为由探望黛玉，实则观察虚实
+4. **宝玉困境** - 被囚家塾，无法探望黛玉，心急如焚
+
+**人物重点**:
+- 黛玉：病情加重，心事重重
+- 宝钗：表面关心，内心复杂
+- 宝玉：隔园相望，无力相助
+- 王熙凤：开始运作金玉良缘
+
+**伏笔铺设**:
+- 黛玉病情恶化，为后续"黛玉之死"铺垫
+- 金玉良缘话题首次正式提出
+- 贾府内部对黛玉态度微妙变化
+
+---
+
+## 28回总体进度（第81-108回）
+
+| 批次 | 回目 | 核心事件 | 状态 | 优先级 |
+|------|------|----------|------|--------|
+| 1 | **81** | ✅ **第81回定稿完成** | ✅ | P0 |
+| 1 | **82-86** | 黛玉之死+余波 | 🔄 第82回大纲完成，待动机审核 | P0 |
+| 2 | 87-92 | 渐衰期 | ⏳ 等待 | P1 |
+| 3 | 93-99 | 大祸临头（抄家） | ⏳ 等待 | P0 |
+| 4 | 100-108 | 离散与结局（悬崖撒手） | ⏳ 等待 | P0 |
 
 ---
 
 ## GitHub
 
 **仓库**: https://github.com/ynych/hlm  
-**最新提交**: eb866ee "第81回修改稿完成"
+**最新提交**: b1df2f0 "第81回定稿完成"
 
 ---
 
-*最后更新: 2026-03-10 12:26*
+*最后更新: 2026-03-12*
