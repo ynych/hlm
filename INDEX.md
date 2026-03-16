@@ -2,12 +2,13 @@
 
 ## 快速导航
 
-### 📦 下载作品
-- [0.0.4 完整版 PDF](07-Publish/0.0.4-complete/) - 推荐版本 ⭐
-- [0.0.3 P1修复版 PDF](07-Publish/0.0.3-p1-fixed/)
-- [0.0.2 P0修复版 PDF](07-Publish/0.0.2-p0-fixed/)
-- [0.0.1 初稿 PDF](07-Publish/0.0.1-raw/)
+### 📦 下载作品（中间版本）
+- [0.0.4 当前最佳版 PDF](07-Publish/0.0.4-draft-complete/) - 当前推荐 ⭐
+- [0.0.3 P1修复版 PDF](07-Publish/0.0.3-draft-p1/)
+- [0.0.2 P0修复版 PDF](07-Publish/0.0.2-draft-p0/)
+- [0.0.1 初稿 PDF](07-Publish/0.0.1-draft-raw/)
 - [版本管理指南](07-Publish/VERSION-GUIDE.md)
+- [v0.0.5迭代计划（目标90分）](07-Publish/0.0.5-iteration-target-90/v0.0.5-iteration-plan.md)
 
 ### 📋 项目文档
 - [项目简介](README.md)
