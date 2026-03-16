@@ -11,10 +11,21 @@
 - [最终决策](02-Planning/final-decisions.md)
 - [大纲总览](03-Design/01-Phase2-Outline/outline-master.md)
 
-### 🔍 参考资料
+### 📚 红学参考资料
 - [判词与预言对照表](02-Planning/poetry-fulfillment-table.md)
 - [脂砚斋批语线索](02-Planning/zhi-yan-zhai-commentary.md)
 - [各续书结局对比](02-Planning/sequel-comparison.md)
+- [金陵十二钗判词原文](02-Planning/03-Reference/jinling-twelve-chairs-poetry.md)
+- [脂砚斋批语汇编](02-Planning/03-Reference/zhi-yan-zhai-commentary-compilation.md)
+- [人物关系图谱](02-Planning/03-Reference/character-relationship-map.md)
+- [前80回关键情节](02-Planning/03-Reference/key-plots-first-80-chapters.md)
+- [曹雪芹生平](02-Planning/03-Reference/cao-xueqin-biography.md)
+- [续书版本对比](02-Planning/03-Reference/sequel-versions-comparison.md)
+- [红楼诗词曲赋](02-Planning/03-Reference/honglou-poetry-collection.md)
+- [贾府经济状况](02-Planning/03-Reference/jia-family-economy.md)
+- [清代贵族礼仪](02-Planning/03-Reference/qing-dynasty-etiquette.md)
+- [关键剧情对照](02-Planning/03-Reference/key-plot-comparison.md)
+- [关键剧情导航](02-Planning/03-Reference/key-plot-navigation.md)
 
 ### 📊 质量报告
 - [AI评审汇总](06-Quality/ai-review-summary.md)
