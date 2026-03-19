@@ -14,6 +14,7 @@
 - [项目简介](README.md)
 - [最终决策](02-Planning/final-decisions.md)
 - [大纲总览](03-Design/01-Phase2-Outline/outline-master.md)
+- [**v0.0.6基础大纲**](03-Design/01-Phase2-Outline/outline-v0.0.6.md) ⭐ 当前基础（专家评审9.2/10）
 
 ### 📚 红学参考资料
 - [判词与预言对照表](02-Planning/poetry-fulfillment-table.md)
@@ -33,6 +34,7 @@
 
 ### 📊 质量报告
 - [AI评审汇总](06-Quality/ai-review-summary.md)
+- [v0.0.6专家评审汇总](06-Quality/03-Expert-Review/v0.0.6-review/summary-report.md) ⭐ **89.5/100 通过**
 - [专家审稿报告](06-Quality/03-Expert-Review/expert-review-report.md)
 
 ---
