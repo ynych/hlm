@@ -1,20 +1,24 @@
 # 《癸酉续红》项目索引
 
+> ⚠️ **重要提示**：本文档为导航索引，可能包含过时信息。  
+> **最新状态请查看**：[STATUS.md](STATUS.md)（项目唯一可信源）  
+> **快速阅读全文**：[07-Publish/0.0.4-draft-complete/](07-Publish/0.0.4-draft-complete/)
+
+---
+
 ## 快速导航
 
-### 📦 下载作品（中间版本）
-- [0.0.4 当前最佳版 PDF](07-Publish/0.0.4-draft-complete/) - 当前推荐 ⭐
-- [0.0.3 P1修复版 PDF](07-Publish/0.0.3-draft-p1/)
-- [0.0.2 P0修复版 PDF](07-Publish/0.0.2-draft-p0/)
-- [0.0.1 初稿 PDF](07-Publish/0.0.1-draft-raw/)
+### 📦 下载作品（推荐版本）
+- [0.0.4 完整版 PDF](07-Publish/0.0.4-draft-complete/) - 28回全文 ⭐  
 - [版本管理指南](07-Publish/VERSION-GUIDE.md)
-- [v0.0.5迭代计划（目标90分）](07-Publish/0.0.5-iteration-target-90/v0.0.5-iteration-plan.md)
 
 ### 📋 项目文档
+- [**项目状态（最新）**](STATUS.md) ⭐ 先看这个
 - [项目简介](README.md)
 - [最终决策](02-Planning/final-decisions.md)
-- [大纲总览](03-Design/01-Phase2-Outline/outline-master.md)
-- [**v0.0.6基础大纲**](03-Design/01-Phase2-Outline/outline-v0.0.6.md) ⭐ 当前基础（专家评审9.2/10）
+- [**v0.0.7-FINAL大纲**](03-Design/01-Phase2-Outline/outline-v0.0.7-FINAL.md) ⭐ 大纲定稿（97.2分）
+
+### 📚 红学参考资料（略，见原文件）
 
 ### 📚 红学参考资料
 - [判词与预言对照表](02-Planning/poetry-fulfillment-table.md)
