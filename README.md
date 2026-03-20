@@ -99,11 +99,13 @@
 ├── 📖 全文.md → 07-Publish/0.0.4-draft-complete/癸酉续红-第81-108回-完整版.md
 ├── 📋 大纲.md → 03-Design/01-Phase2-Outline/outline-v0.0.7-FINAL.md
 ├── 📊 状态.md → STATUS.md
-├── README.md          # 项目看板
-├── STATUS.md          # 状态看板（唯一可信源）
-├── INDEX.md           # 章节索引
-├── ARCHIVE.md         # 历史结构说明
-└── 01-07/             # 历史归档目录（详见ARCHIVE.md）
+├── README.md                   # 项目看板
+├── STATUS.md                   # 状态看板（唯一可信源）
+├── INDEX.md                    # 章节索引
+├── ARCHIVE.md                  # 历史结构说明
+├── ACADEMIC_CREDITS.md         # 学术 credits 与引用规范
+├── VERSION_DIFFERENCES.md      # 版本差异说明
+└── 01-07/                      # 历史归档目录（详见ARCHIVE.md）
 ```
 
 **注意**：`05-Writing/02-Draft/` 为早期草稿，**请勿阅读**。
@@ -145,6 +147,17 @@
 |------|------|------|
 | 完整版 | 28回全文（推荐） | `07-Publish/0.0.4-draft-complete/` |
 | 历史版本 | 0.0.1-0.0.3 | `07-Publish/` 各子目录 |
+
+---
+
+## 📚 学术资源
+
+| 资源 | 说明 | 链接 |
+|------|------|------|
+| 📖 **学术引用规范** | 专家身份、评审方法论、引用格式 | [ACADEMIC_CREDITS.md](ACADEMIC_CREDITS.md) |
+| 📋 **版本差异说明** | v1.0.0 与癸酉本原设的差异对比 | [VERSION_DIFFERENCES.md](VERSION_DIFFERENCES.md) |
+
+**学术诚信声明**：本项目为 AI 续作研究项目，v1.0.0 采用学术派立场，与癸酉本原设存在差异（详见 VERSION_DIFFERENCES.md）。
 
 ---
 
