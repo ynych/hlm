@@ -1,0 +1,27 @@
+{
+  "version": "v0.1.0",
+  "title": "癸酉续红",
+  "subtitle": "《红楼梦》第81-108回续作",
+  "total_chapters": 28,
+  "chapter_range": "81-108",
+  "total_word_count": "约76万字",
+  "avg_chapter_word_count": "约2.7万字",
+  "structure": {
+    "part1": {"name": "渐衰期", "chapters": "81-87", "word_count": "约18万字"},
+    "part2": {"name": "崩塌期", "chapters": "88-94", "word_count": "约18万字"},
+    "part3": {"name": "离散期", "chapters": "95-102", "word_count": "约20万字"},
+    "part4": {"name": "流浪+情榜期", "chapters": "103-108", "word_count": "约20万字"}
+  },
+  "key_chapters": [
+    {"chapter": 85, "title": "潇湘妃子泪尽而逝", "event": "黛玉之死"},
+    {"chapter": 88, "title": "贾元妃薨逝凤被休", "event": "凤姐被休"},
+    {"chapter": 97, "title": "薛宝钗魂归离恨天", "event": "宝钗病逝"},
+    {"chapter": 102, "title": "湘江水逝楚云飞", "event": "湘江水逝"},
+    {"chapter": 104, "title": "悬崖撒手宝玉悟", "event": "悬崖撒手"},
+    {"chapter": 106, "title": "警幻仙姑情榜点", "event": "情榜揭晓"},
+    {"chapter": 108, "title": "通灵玉忆石头记", "event": "石头记成"}
+  ],
+  "generation_date": "2026-03-21",
+  "author": "AI生成+人工精修",
+  "source": "基于癸酉本骨架"
+}
