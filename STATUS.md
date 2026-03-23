@@ -70,6 +70,7 @@
 | 文件 | 路径 | 说明 |
 |------|------|------|
 | **全文 v0.1.3** | `deliverables/v0.1.3/fulltext/fulltext-v0.1.3.md` | 定稿全文 ⭐ |
+| **大纲 v0.1.3** | `deliverables/v0.1.3/outline/outline-v0.1.3.md` | 28回结构 ⭐ |
 | **8+2评审汇总** | `deliverables/v0.1.3/review/EXPERT_REVIEW_SUMMARY_v0.1.3.md` | 评审报告 |
 | **发布说明** | `deliverables/v0.1.3/V0.1.3_RELEASE_NOTES.md` | 版本说明 |
 | **全文入口** | `全文.md` | 软链指向v0.1.3 |
