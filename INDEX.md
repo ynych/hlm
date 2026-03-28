@@ -2,21 +2,21 @@
 
 > ⚠️ **重要提示**：本文档为导航索引，可能包含过时信息。  
 > **最新状态请查看**：[STATUS.md](STATUS.md)（项目唯一可信源）  
-> **快速阅读全文**：[07-Publish/0.0.4-draft-complete/](07-Publish/0.0.4-draft-complete/)
+> **版本评分对比**：[VERSION_SCORE_MATRIX.md](VERSION_SCORE_MATRIX.md)
 
 ---
 
 ## 快速导航
 
-### 📦 下载作品（推荐版本）
-- [0.0.4 完整版 PDF](07-Publish/0.0.4-draft-complete/) - 28回全文 ⭐  
-- [版本管理指南](07-Publish/VERSION-GUIDE.md)
+### 📦 阅读作品（推荐版本）
+- [**全文.md**](全文.md) - v0.1.9 完整版 (28回，96.0分) ⭐  
+- [版本评分矩阵](VERSION_SCORE_MATRIX.md) - 各版本对比
 
 ### 📋 项目文档
 - [**项目状态（最新）**](STATUS.md) ⭐ 先看这个
+- [**版本评分矩阵**](VERSION_SCORE_MATRIX.md) - 版本对比
 - [项目简介](README.md)
-- [最终决策](02-Planning/final-decisions.md)
-- [**v0.0.7-FINAL大纲**](03-Design/01-Phase2-Outline/outline-v0.0.7-FINAL.md) ⭐ 大纲定稿（97.2分）
+- [**v0.1.8 发布说明**](deliverables/v0.1.8/RELEASE_v0.1.8_FINAL.md) ⭐ 96.0分出版级
 
 ### 📚 红学参考资料
 - [判词与预言对照表](02-Planning/poetry-fulfillment-table.md)
@@ -35,17 +35,17 @@
 - [关键剧情导航](02-Planning/03-Reference/key-plot-navigation.md)
 
 ### 📊 质量报告
-- [AI评审汇总](06-Quality/ai-review-summary.md)
-- [v0.0.6专家评审汇总](06-Quality/03-Expert-Review/v0.0.6-review/summary-report.md) ⭐ **89.5/100 通过**
-- [专家审稿报告](06-Quality/03-Expert-Review/expert-review-report.md)
+- [**v0.1.8 专家评审汇总**](deliverables/v0.1.8/RELEASE_v0.1.8_FINAL.md) ⭐ **96.0/100 出版级**
+- [版本评分矩阵](VERSION_SCORE_MATRIX.md) - 全版本对比
+- [v0.1.3 评审报告](deliverables/v0.1.3/review/) - 92.3/100
 
 ---
 
 ## 章节索引
 
 > ⚠️ **重要**：以下仅为回目目录，**不是阅读入口**。  
-> 完整28回全文请阅读：[07-Publish/0.0.4-draft-complete/癸酉续红-第81-108回-完整版.md](07-Publish/0.0.4-draft-complete/癸酉续红-第81-108回-完整版.md)  
-> 如需查看单回大纲/草稿，请见 `05-Writing/02-Draft/`（注意：此为早期草稿，与最终版有差异）
+> **完整28回全文请阅读**：[全文.md](全文.md) - v0.1.9 完整版  
+> 如需查看分文档版本，请见 `deliverables/v0.1.8/fulltext/` 或 `deliverables/v0.1.9/fulltext/`
 
 ### 渐衰期（81-87回）
 | 回目 | 标题 |
